@@ -1,4 +1,4 @@
-# :man_technologist: Bill
+# :rocket: DATA ENGINEERING ROCKS!
 
 ## Hello Everyone !
 
@@ -18,6 +18,4 @@ Built reliable and maintainable data pipeline that always seek to do what is the
 ## My Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=whrocha&show_icons=true&hide_border=true)
-
-![](https://komarev.com/ghpvc/?username=whrocha&color=blue&style=flat)
 ---
