@@ -14,5 +14,8 @@ Built reliable and maintainable data pipeline that always seek to do what is the
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/whrocha/)](https://www.linkedin.com/in/whrocha89/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willian.barbosarocha@gmail.com)](mailto:willian.barbosarocha@gmail.com)
 
+## Online CV
+
+[Check out my CV](https://whrocha.github.io/online-cv/)
 
 ---
